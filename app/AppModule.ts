@@ -9,7 +9,7 @@ import { XHRBackend } from '@angular/http';
 import { InMemoryBackendService, SEED_DATA } from 'angular2-in-memory-web-api';
 import { InMemoryDataService } from './in-memory-data.service';
 
-import './rxjs-extensions';
+import './RXJS/RXJSExtensions';
 import { AppComponent } from './app.component';
 import { routing, routedComponents } from './app.routing';
 import { HeroService } from './hero.service';
