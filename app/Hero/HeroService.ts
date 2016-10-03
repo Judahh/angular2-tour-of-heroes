@@ -7,7 +7,7 @@ import { Hero } from './Hero';
 
 @Injectable()
 export class HeroService {
-  private heroesUrl = 'app/heroes';  // URL to web api. 
+  private heroesUrl = 'App/heroes';  // URL to web api. 
 
   constructor(private http: Http) { }
 
