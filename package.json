@@ -10,7 +10,7 @@
     "typings": "typings"
   },
   "dependencies": {
-    "@angular/common": "~2.0.1",
+    "@angular/common": "~11.2.3",
     "@angular/compiler": "~2.0.1",
     "@angular/compiler-cli": "~0.6.3",
     "@angular/core": "~2.0.1",
